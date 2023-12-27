@@ -11,7 +11,7 @@
 <img src = 'https://github.com/zHelga/zHelga/blob/main/image/html.svg' width='30'/><img src = 'https://github.com/zHelga/zHelga/blob/main/image/css.svg' width='30'/><img src = 'https://github.com/zHelga/zHelga/blob/main/image/js.svg' width='30'/>
 
 ## Technologies I Use
-<img src = 'https://github.com/zHelga/zHelga/blob/main/image/git.svg' width='30'/><img src = 'https://github.com/zHelga/zHelga/blob/main/image/react.svg' width='30'/><img src = 'https://github.com/zHelga/zHelga/blob/main/image/nodejs.svg' width='30'/>
+<img src = 'https://github.com/zHelga/zHelga/blob/main/image/git.svg' width='30'/><img src = 'https://github.com/zHelga/zHelga/blob/main/image/react.svg' width='30'/><img src = 'https://github.com/zHelga/zHelga/blob/main/image/nodejs.svg' width='30'/><img src = 'https://github.com/zHelga/zHelga/blob/main/image/sass.png' width='30'/>
 
 ##
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zHelga&layout=compact">
