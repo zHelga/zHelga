@@ -1,5 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Helga
-
+[![Gmail Badge](https://img.shields.io/badge/-zubacolga1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zubacolga1998@gmail.com)](mailto:zubacolga1998@gmail.com)
+##
 
 - 🌱 I’m currently learning HTML, CSS, Javascript and React.
 - 🔭 I’m currently working on creating webpages and learning how to progam.
